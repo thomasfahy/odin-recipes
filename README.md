@@ -1,2 +1,4 @@
-# odin-recipes
-Applying new knowledge gained from the Odin Project
+# Odin Recipes
+Applying new knowledge gained from the Odin Project.
+https://thomasfahy.github.io/odin-recipes/
+
