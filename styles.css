@@ -7,10 +7,14 @@
     font-weight: 600;
     text-align: center;
 }
+.mainheading:hover{
+    color: rgb(77, 31, 25);
+}
+
 div.menulist{
     text-align: center;
-
 }
+
 ol.myOL{
     display: inline-block;
     text-align: left;
@@ -21,8 +25,25 @@ ol.myOL{
     font-weight: 500;
     text-decoration: none;
 }
+.menuitem:hover{
+    color:blueviolet;
+}
 .recipeh{
     font-size: 50px;
     font-weight: 600;
     text-align: center;
 }
+.image{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 2;
+}
+
