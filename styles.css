@@ -1,16 +1,28 @@
 *{
     background-color: rgb(245, 234, 220);
 }
+
 .mainheading{
     font-size: 50px;
     font-weight: 600;
+    text-align: center;
 }
-.menu{
-    font-size: 30px;
+div.menulist{
+    text-align: center;
+
+}
+ol.myOL{
+    display: inline-block;
+    text-align: left;
+    font-size: 25px;
+}
+.menuitem{
     color: black;
+    font-weight: 500;
+    text-decoration: none;
 }
-.menu, 
-.mainheading{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.recipeh{
+    font-size: 50px;
+    font-weight: 600;
     text-align: center;
 }
